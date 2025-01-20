@@ -58,7 +58,7 @@ button{
 }
 @media screen and (max-width:500px){
     .container{
-        width: 90%;
+        width: 70%;
     }
     
 }
