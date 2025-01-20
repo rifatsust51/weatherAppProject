@@ -1,7 +1,6 @@
-<h2> Weather App</h2>
 
-## Demo Video
-Watch the demo video to see the Weather App in action:
+
+# Weather App
 
 ## Overview
 The Weather App is a simple application that provides weather information for a specified location. It fetches data from a weather API and displays the current weather, temperature, humidity, and other relevant details.
@@ -13,7 +12,8 @@ The Weather App is a simple application that provides weather information for a 
 - Wind speed 
 - overall weather condition 
  
- 
+ ## Demo Video
+Watch the demo video to see the Weather App in action:
 
 ## Configuration
 To use the Weather App, you need to obtain an API key from a weather service provider (e.g., OpenWeatherMap).
