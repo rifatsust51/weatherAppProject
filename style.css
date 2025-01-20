@@ -1,0 +1,58 @@
+body{
+    font-family: Arial,sans-serif;
+    background-image:url("images/pexels-eberhardgross-1417642.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    margin-top: 105px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+h1{
+    font-size: 24px;
+}
+input{
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #03fcb1 ;
+    border-radius: 5px;
+    outline-color: #03fcb1;
+
+}
+
+button{
+    background-color: #d142f5;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#weather-info{
+    margin-top: 20px;
+}
+#weather-info h2{
+    font-size: 34px;
+    color: #333;
+}
+#weather-info h3{
+    font-size: 30px;
+    color: #333;
+}
+#weather-info h3:nth-of-type(5){
+    font-size: 25px;
+    color: #333;
+    font-weight: bold;
+    
+}
